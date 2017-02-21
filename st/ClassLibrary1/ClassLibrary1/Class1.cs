@@ -8,5 +8,14 @@ namespace ClassLibrary1
 {
     public class Class1
     {
+        public void NewMethod()
+        {
+            var a = 0;
+
+            if (a == 0)
+            {
+                
+            }
+        }
     }
 }
